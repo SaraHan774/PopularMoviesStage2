@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie Database</string>
+    <string name="detail_activity_title">MOVIE DETAILS</string>
+
+    <!-- menu title strings -->
+    <string name="mt_sort_by">SORT BY</string>
+    <string name="mt_popularity">POPULARITY</string>
+    <string name="mt_top_rated">TOP RATED</string>
+    <string name="mt_my_favorites">MY FAVORITES</string>
+
+    <string name="movie_reviews">REVIEWS</string>
+
+    <string name="default_review">NO REVIEWS YET!</string>
+
+    <string name="movie_videos">VIDEOS</string>
+
+    <string name="watch_trailers">Click to watch the video!</string>
+    <string name="trailer_not_available">"Trailer is not available for this movie."</string>
+</resources>
